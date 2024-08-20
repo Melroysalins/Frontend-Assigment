@@ -1,0 +1,11 @@
+.headerContainner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.section2Containner{
+  
+    display: flex;
+    align-items: center;
+    gap: 27px;
+}

@@ -1,0 +1,20 @@
+.DateRangeSelectorContainner{
+      border: 1px solid #14147d;
+    padding: 6px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+.divider{
+    width: 2px;
+    height: 17px;
+    background-color: #14147d;
+}
+.DateRangeSelectorContainner p{
+        font-family: "Roboto", sans-serif;
+        font-weight: 800;
+        color:  #14147d;;
+        font-size: 14px;
+}

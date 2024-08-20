@@ -1,14 +1,12 @@
 .NavigationBar{
     display: flex;
     width: 100%;
-    padding: 6px;
-    
 }
 .navbarContainner{
     width: 100%;
-   
     justify-content: space-between;
-    margin: 7px;
+    padding-left: 16px;
+    margin: 3px;
     display: flex;
     align-items: center;
 }
