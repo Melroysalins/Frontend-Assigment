@@ -1,0 +1,30 @@
+.searchbar{
+    display: flex;
+    width: 400px;
+    align-items: center;
+    border: 1.5px solid    #aed0f3;;
+    gap: 1px;
+    padding: 1px;
+    border-radius: 4px;
+      background-color: #f0f5fa;
+
+}
+.searchIcon{
+    font-size: 16px;
+    margin-left: 3px;
+    color: rgb(159, 158, 158);
+}
+.searchbar input{
+    padding: 4px;
+    width: 100%;
+    outline: none;
+    border: none;
+    background-color: #f0f5fa;
+}
+::placeholder{
+    color: black;
+      font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+   color: rgb(159, 158, 158);
+}

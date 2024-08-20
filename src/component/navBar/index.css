@@ -1,0 +1,19 @@
+.NavigationBar{
+    display: flex;
+    width: 100%;
+    padding: 6px;
+    
+}
+.navbarContainner{
+    width: 100%;
+   
+    justify-content: space-between;
+    margin: 7px;
+    display: flex;
+    align-items: center;
+}
+.bellIcon{
+    cursor: pointer;
+    font-size: 12px;
+    color: #8295a8;;
+}
